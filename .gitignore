@@ -1,0 +1,51 @@
+# --- Environment / secrets ---
+.env
+.env.*
+*.env
+
+# --- Jupyter / notebook checkpoints ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# --- Python caches and virtual environments ---
+__pycache__/
+*.py[cod]
+*.pyo
+.cache/
+.ipython/
+.venv/
+venv/
+env/
+
+# --- Compressed / archive files ---
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+*.7z
+*.rar
+
+# --- Heavy raw database files ---
+*.mdb
+*.accdb
+*.sqlite
+*.db
+
+# --- Model binaries ---
+*.joblib
+*.pkl
+*.pickle
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# --- Temporary / system files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
+*.log
+*~

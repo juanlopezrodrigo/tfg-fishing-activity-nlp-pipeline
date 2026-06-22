@@ -1,0 +1,17 @@
+# Core scientific stack
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
+pyarrow
+
+# Data collection and parsing
+requests
+tqdm
+scrapetube
+yt-dlp
+pdfplumber
+
+# Note: google.colab (Drive mounting) is provided by the Google Colab
+# runtime and is not installable via pip.
